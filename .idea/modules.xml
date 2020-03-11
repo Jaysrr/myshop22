@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/suyoushop.iml" filepath="$PROJECT_DIR$/suyoushop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suyoushop-consumer/suyoushop-consumer.iml" filepath="$PROJECT_DIR$/suyoushop-consumer/suyoushop-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suyoushop-interface/suyoushop-interface.iml" filepath="$PROJECT_DIR$/suyoushop-interface/suyoushop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suyoushop-provider/suyoushop-provider.iml" filepath="$PROJECT_DIR$/suyoushop-provider/suyoushop-provider.iml" />
+    </modules>
+  </component>
+</project>
